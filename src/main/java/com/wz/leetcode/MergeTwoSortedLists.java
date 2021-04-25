@@ -70,6 +70,7 @@ public class MergeTwoSortedLists {
     }
 
     public static void main(String[] args) {
+        // 两个有序链表
         // [1,2,4]
         // [1,3,4]
         ListNode head1 = new ListNode(1);
