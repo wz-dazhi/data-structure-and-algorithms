@@ -4,7 +4,7 @@ package com.wz.leetcode;
  * @projectName: data-structure-and-algorithms
  * @package: com.wz.leetcode
  * @className: SameTree
- * @description: 判断两个树是否相等. 力扣: https://leetcode-cn.com/problems/same-tree/
+ * @description: 判断两个树是否相等(相同的树). 力扣: https://leetcode-cn.com/problems/same-tree/
  * <p>
  * 给你两棵二叉树的根节点 p 和 q ，编写一个函数来检验这两棵树是否相同。
  * 如果两个树在结构上相同，并且节点具有相同的值，则认为它们是相同的。
