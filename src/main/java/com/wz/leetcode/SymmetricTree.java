@@ -4,7 +4,7 @@ package com.wz.leetcode;
  * @projectName: data-structure-and-algorithms
  * @package: com.wz.leetcode
  * @className: SymmetricTree
- * @description: 判断一个树是否为镜面树. 力扣: https://leetcode-cn.com/problems/symmetric-tree/
+ * @description: 判断一个树是否为镜面树(对称二叉树). 力扣: https://leetcode-cn.com/problems/symmetric-tree/
  * <p>
  * 给定一个二叉树，检查它是否是镜像对称的。
  * 例如，二叉树 [1,2,2,3,4,4,3] 是对称的。
